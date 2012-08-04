@@ -1,7 +1,7 @@
 README
 ------
 
-This simple AppleScript iterates over your OS X AddressBook. For each contact, it asks you if you want to 'Keep' or 'Remove' that contact's birthday. 
+This simple AppleScript iterates over your OS X Address Book. For each contact, it asks you if you want to 'Keep' or 'Remove' that contact's birthday. 
 
 
 WHY
