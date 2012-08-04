@@ -12,3 +12,9 @@ On my iPhone, all my contact's birthdays got scheduled as all day events. This w
 This script let me put in a few minutes to decide which birthdays I want to keep in my calendar.
 
 Now I'm back to Sirin' happily.
+
+
+WARNING
+-------
+
+This worked for my setup. I did zero testing. To be safe, backup your contacts before running the script.
